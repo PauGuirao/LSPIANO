@@ -1,0 +1,8 @@
+{
+  "portDB": 3306,
+  "IPDB": "localhost",
+  "nomDB": "DB",
+  "nicknameDB": "admin",
+  "passwordDB": "1234",
+  "portClientDB": 37000
+}
